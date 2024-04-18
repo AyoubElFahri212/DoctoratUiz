@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = ma.uiz.ac.\
+    poledoctorat.config.SqlTestContainersSpringContextCustomizerFactory,ma.uiz.\
+    ac.poledoctorat.config.TestContainersSpringContextCustomizerFactory
